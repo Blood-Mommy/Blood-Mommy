@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jaroslavs Monastirskis
 
-🎓 BSc Computer Science student pursuing a Double Degree in Artificial Intelligence & Software Development (240 ECTS)
+🎓 BSc Computer Science student studying a Double Degree in Artificial Intelligence & Software Development (240 ECTS)
 
 👨‍💻 About Me
 
