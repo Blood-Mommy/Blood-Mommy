@@ -15,7 +15,6 @@ I study in a full-time English-taught program and focus on combining solid theor
 🏅 University of Colorado Boulder (Coursera) — Introduction to High-Performance and Parallel Computing
 
 🏅ISTANBUL AYDIN UNIVERSITY - Multi-Criteria Decision Making
-**Blood-Mommy/Blood-Mommy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ⚡ Fun fact:
 - I have a cat and spider as pets
